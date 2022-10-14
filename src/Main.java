@@ -3,5 +3,6 @@ public class Main {
         var mazda = new Car(1000);
         var mrs = new Car();
         mazda.writeMessage();
+        mrs.writeMessage();
     }
 }

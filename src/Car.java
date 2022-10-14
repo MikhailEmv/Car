@@ -8,5 +8,6 @@ public class Car {
     }
     public void writeMessage() {
         System.out.printf("Hello, dude, now your speed is kind of %s km/h", speed);
+        System.out.println("Yes");
     }
 }
